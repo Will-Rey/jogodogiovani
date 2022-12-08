@@ -43,17 +43,15 @@ body{
     margin: 40px;
 }
 
-.botao01{
-    background-color:#4CAF50; ;
-    color: white;
-    padding: 15px 32px;
-    text-align: center;
-    text-decoration: none;
-    display: inline-block;
-    font-size: 16px;
-    margin: 20px;
+#video h1{
+    color:white;
+}
 
-   }
+#video a{
+    font-size: 25px;
+    color: white;
+}
+
 
 .footer{
     text-align: center;
